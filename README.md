@@ -1,6 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaTokisaki&show_icons=true&theme=dark&hide_border=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaTokisaki&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaTokisaki&show_icons=true&theme=dark&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaTokisaki&theme=dark&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CamilaTokisaki&no-frame=true&no-bg=true&theme=juicyfresh)
 
